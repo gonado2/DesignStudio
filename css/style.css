@@ -46,5 +46,30 @@ Height: 51px ;
 }
 .application{
 background: rgba(255, 255, 255, 0);
- 
+}
+.completedprojects{
+	width: 100%;
+	height: 750px;
+}
+.control{
+width: 100%;
+height: 600px;
+background: linear-gradient(to top, white 50%, #131313 50%);
+}
+.callform{
+width: 100%;
+height: 570px;	
+
+}
+.pics{
+	width: 100%;
+	height: 910px;
+}
+.newrequest{
+	width: 100%;
+	height: 750px;
+}
+.fantasies{
+	width: 100%;
+	height: 1100px;
 }
